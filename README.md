@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there!
+
+I'm KingArthu207, a high school student passionate for computer science. I have a soft spot for Python and C++ and I love pretty much anything that has to do with computers, chess, math and physics.
